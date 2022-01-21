@@ -1,0 +1,21 @@
+{
+	"editor.formatOnSave": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.renderIndentGuides": true,
+	"javascript.suggest.autoImports": true,
+	"javascript.validate.enable": false,
+
+	"prettier.tabWidth": 2,
+	"workbench.colorCustomizations": {
+		"editorIndentGuide.background": "#594666"
+	},
+	"editor.codeActionsOnSave": {
+		"source.organizeImports": true,
+		"source.fixAll": true
+	},
+	"emmet.includeLanguages": {
+		"ejs": "html"
+	},
+	"javascript.suggestionActions.enabled": true,
+	"editor.hover.enabled": true
+}
